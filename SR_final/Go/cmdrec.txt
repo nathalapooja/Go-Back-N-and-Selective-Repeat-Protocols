@@ -1,0 +1,1473 @@
+[Ljava.lang.String;@55f96302
+SR
+4
+8
+1000
+500
+[Ljava.lang.String;@232204a1
+Packet with sequence number 0 received (last: false )
+===================================GENERATED ACK  0
+Packet stored in buffer
+Sending ACK to seq 0 with 48 bytes
+waitingFor==
+1
+2
+3
+4
+5
+6
+7
+8
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 1 received (last: false )
+===================================GENERATED ACK  1
+Packet stored in buffer
+Sending ACK to seq 1 with 48 bytes
+waitingFor==
+2
+3
+4
+5
+6
+7
+8
+9
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 2 received (last: false )
+===================================GENERATED ACK  2
+Packet stored in buffer
+Sending ACK to seq 2 with 48 bytes
+waitingFor==
+3
+4
+5
+6
+7
+8
+9
+10
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 3 received (last: false )
+===================================GENERATED ACK  3
+Packet stored in buffer
+Sending ACK to seq 3 with 48 bytes
+waitingFor==
+4
+5
+6
+7
+8
+9
+10
+11
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 4 received (last: false )
+===================================GENERATED ACK  4
+Packet stored in buffer
+Sending ACK to seq 4 with 48 bytes
+waitingFor==
+5
+6
+7
+8
+9
+10
+11
+12
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 6 received (last: false )
+===================================GENERATED ACK  6
+Packet stored in buffer
+Sending ACK to seq 6 with 48 bytes
+waitingFor==
+5
+6
+7
+8
+9
+10
+11
+12
+setACK==
+0
+1
+0
+0
+0
+0
+0
+0
+Packet with sequence number 7 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 6 with 48 bytes
+waitingFor==
+5
+6
+7
+8
+9
+10
+11
+12
+setACK==
+0
+1
+0
+0
+0
+0
+0
+0
+Packet with sequence number 9 received (last: false )
+===================================GENERATED ACK  9
+Packet stored in buffer
+Sending ACK to seq 9 with 48 bytes
+waitingFor==
+5
+6
+7
+8
+9
+10
+11
+12
+setACK==
+0
+1
+0
+0
+1
+0
+0
+0
+Packet with sequence number 10 received (last: false )
+===================================GENERATED ACK  10
+Packet stored in buffer
+[X] Lost ack with sequence number 10
+waitingFor==
+5
+6
+7
+8
+9
+10
+11
+12
+setACK==
+0
+1
+0
+0
+1
+0
+0
+0
+Packet with sequence number 11 received (last: false )
+===================================GENERATED ACK  11
+Packet stored in buffer
+Sending ACK to seq 11 with 48 bytes
+waitingFor==
+5
+6
+7
+8
+9
+10
+11
+12
+setACK==
+0
+1
+0
+0
+1
+0
+1
+0
+Packet with sequence number 5 received (last: false )
+===================================GENERATED ACK  5
+Packet stored in buffer
+Sending ACK to seq 5 with 48 bytes
+waitingFor==
+7
+8
+9
+10
+11
+12
+13
+14
+setACK==
+0
+0
+1
+0
+1
+0
+0
+0
+Packet with sequence number 7 received (last: false )
+===================================GENERATED ACK  7
+Packet stored in buffer
+Sending ACK to seq 7 with 48 bytes
+waitingFor==
+8
+9
+10
+11
+12
+13
+14
+15
+setACK==
+0
+1
+0
+1
+0
+0
+0
+0
+Packet with sequence number 8 received (last: false )
+===================================GENERATED ACK  8
+Packet stored in buffer
+Sending ACK to seq 8 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+0
+0
+0
+0
+0
+0
+Packet with sequence number 10 received (last: false )
+===================================GENERATED ACK  10
+Packet stored in buffer
+[X] Lost ack with sequence number 10
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+0
+0
+0
+0
+0
+0
+Packet with sequence number 12 received (last: false )
+===================================GENERATED ACK  12
+Packet stored in buffer
+Sending ACK to seq 12 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 13 received (last: false )
+===================================GENERATED ACK  13
+Packet stored in buffer
+[X] Lost ack with sequence number 13
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 14 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 13 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+1
+0
+0
+0
+0
+Packet with sequence number 15 received (last: false )
+===================================GENERATED ACK  15
+Packet stored in buffer
+Sending ACK to seq 15 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+1
+0
+1
+0
+0
+Packet with sequence number 16 received (last: false )
+===================================GENERATED ACK  16
+Packet stored in buffer
+Sending ACK to seq 16 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+1
+0
+1
+1
+0
+Packet with sequence number 14 received (last: false )
+===================================GENERATED ACK  14
+Packet stored in buffer
+Sending ACK to seq 14 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+1
+1
+1
+1
+0
+Packet with sequence number 17 received (last: false )
+===================================GENERATED ACK  17
+Packet stored in buffer
+Sending ACK to seq 17 with 48 bytes
+waitingFor==
+10
+11
+12
+13
+14
+15
+16
+17
+setACK==
+0
+1
+1
+1
+1
+1
+1
+1
+Packet with sequence number 10 received (last: false )
+===================================GENERATED ACK  10
+Packet stored in buffer
+Sending ACK to seq 10 with 48 bytes
+waitingFor==
+18
+19
+20
+21
+22
+23
+24
+25
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 18 received (last: false )
+===================================GENERATED ACK  18
+Packet stored in buffer
+Sending ACK to seq 18 with 48 bytes
+waitingFor==
+19
+20
+21
+22
+23
+24
+25
+26
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 19 received (last: false )
+===================================GENERATED ACK  19
+Packet stored in buffer
+Sending ACK to seq 19 with 48 bytes
+waitingFor==
+20
+21
+22
+23
+24
+25
+26
+27
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 20 received (last: false )
+===================================GENERATED ACK  20
+Packet stored in buffer
+[X] Lost ack with sequence number 20
+waitingFor==
+20
+21
+22
+23
+24
+25
+26
+27
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 21 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 20 with 48 bytes
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 22 received (last: false )
+===================================GENERATED ACK  22
+Packet stored in buffer
+[X] Lost ack with sequence number 22
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 23 received (last: false )
+===================================GENERATED ACK  23
+Packet stored in buffer
+Sending ACK to seq 23 with 48 bytes
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+1
+0
+0
+0
+0
+0
+Packet with sequence number 24 received (last: false )
+===================================GENERATED ACK  24
+Packet stored in buffer
+Sending ACK to seq 24 with 48 bytes
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+1
+1
+0
+0
+0
+0
+Packet with sequence number 25 received (last: false )
+===================================GENERATED ACK  25
+Packet stored in buffer
+Sending ACK to seq 25 with 48 bytes
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+1
+1
+1
+0
+0
+0
+Packet with sequence number 26 received (last: false )
+===================================GENERATED ACK  26
+Packet stored in buffer
+Sending ACK to seq 26 with 48 bytes
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+1
+1
+1
+1
+0
+0
+Packet with sequence number 27 received (last: false )
+===================================GENERATED ACK  27
+Packet stored in buffer
+[X] Lost ack with sequence number 27
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+1
+1
+1
+1
+0
+0
+Packet with sequence number 28 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 27 with 48 bytes
+waitingFor==
+21
+22
+23
+24
+25
+26
+27
+28
+setACK==
+0
+0
+1
+1
+1
+1
+1
+0
+Packet with sequence number 21 received (last: false )
+===================================GENERATED ACK  21
+Packet stored in buffer
+Sending ACK to seq 21 with 48 bytes
+waitingFor==
+22
+23
+24
+25
+26
+27
+28
+29
+setACK==
+0
+1
+1
+1
+1
+1
+0
+0
+Packet with sequence number 22 received (last: false )
+===================================GENERATED ACK  22
+Packet stored in buffer
+Sending ACK to seq 22 with 48 bytes
+waitingFor==
+28
+29
+30
+31
+32
+33
+34
+35
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 28 received (last: false )
+===================================GENERATED ACK  28
+Packet stored in buffer
+Sending ACK to seq 28 with 48 bytes
+waitingFor==
+29
+30
+31
+32
+33
+34
+35
+36
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 29 received (last: false )
+===================================GENERATED ACK  29
+Packet stored in buffer
+Sending ACK to seq 29 with 48 bytes
+waitingFor==
+30
+31
+32
+33
+34
+35
+36
+37
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 30 received (last: false )
+===================================GENERATED ACK  30
+Packet stored in buffer
+Sending ACK to seq 30 with 48 bytes
+waitingFor==
+31
+32
+33
+34
+35
+36
+37
+38
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 31 received (last: false )
+===================================GENERATED ACK  31
+Packet stored in buffer
+Sending ACK to seq 31 with 48 bytes
+waitingFor==
+32
+33
+34
+35
+36
+37
+38
+39
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 32 received (last: false )
+===================================GENERATED ACK  32
+Packet stored in buffer
+Sending ACK to seq 32 with 48 bytes
+waitingFor==
+33
+34
+35
+36
+37
+38
+39
+40
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 33 received (last: false )
+===================================GENERATED ACK  33
+Packet stored in buffer
+Sending ACK to seq 33 with 48 bytes
+waitingFor==
+34
+35
+36
+37
+38
+39
+40
+41
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 34 received (last: false )
+===================================GENERATED ACK  34
+Packet stored in buffer
+Sending ACK to seq 34 with 48 bytes
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 35 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 34 with 48 bytes
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 36 received (last: false )
+===================================GENERATED ACK  36
+Packet stored in buffer
+Sending ACK to seq 36 with 48 bytes
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+1
+0
+0
+0
+0
+0
+0
+Packet with sequence number 37 received (last: false )
+===================================GENERATED ACK  37
+Packet stored in buffer
+Sending ACK to seq 37 with 48 bytes
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 39 received (last: false )
+===================================GENERATED ACK  39
+Packet stored in buffer
+[X] Lost ack with sequence number 39
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 40 received (last: false )
+===================================GENERATED ACK  40
+Packet stored in buffer
+[X] Lost ack with sequence number 40
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 41 received (last: false )
+===================================GENERATED ACK  41
+Packet stored in buffer
+[X] Lost ack with sequence number 41
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 42 received (last: false )
+Packet discarded (Checksum error)
+[X] Lost ack with sequence number 41
+waitingFor==
+35
+36
+37
+38
+39
+40
+41
+42
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 35 received (last: false )
+===================================GENERATED ACK  35
+Packet stored in buffer
+Sending ACK to seq 35 with 48 bytes
+waitingFor==
+38
+39
+40
+41
+42
+43
+44
+45
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 38 received (last: false )
+===================================GENERATED ACK  38
+Packet stored in buffer
+Sending ACK to seq 38 with 48 bytes
+waitingFor==
+39
+40
+41
+42
+43
+44
+45
+46
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 39 received (last: false )
+===================================GENERATED ACK  39
+Packet stored in buffer
+Sending ACK to seq 39 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 42 received (last: false )
+===================================GENERATED ACK  42
+Packet stored in buffer
+Sending ACK to seq 42 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+0
+0
+0
+0
+0
+Packet with sequence number 43 received (last: false )
+===================================GENERATED ACK  43
+Packet stored in buffer
+Sending ACK to seq 43 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+1
+0
+0
+0
+0
+Packet with sequence number 44 received (last: false )
+===================================GENERATED ACK  44
+Packet stored in buffer
+Sending ACK to seq 44 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+1
+1
+0
+0
+0
+Packet with sequence number 45 received (last: false )
+===================================GENERATED ACK  45
+Packet stored in buffer
+Sending ACK to seq 45 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+1
+1
+1
+0
+0
+Packet with sequence number 46 received (last: false )
+===================================GENERATED ACK  46
+Packet stored in buffer
+Sending ACK to seq 46 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+1
+1
+1
+1
+0
+Packet with sequence number 47 received (last: false )
+===================================GENERATED ACK  47
+Packet stored in buffer
+Sending ACK to seq 47 with 48 bytes
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+1
+1
+1
+1
+1
+Packet with sequence number 41 received (last: false )
+===================================GENERATED ACK  41
+Packet stored in buffer
+[X] Lost ack with sequence number 41
+waitingFor==
+40
+41
+42
+43
+44
+45
+46
+47
+setACK==
+0
+0
+1
+1
+1
+1
+1
+1
+Packet with sequence number 40 received (last: false )
+===================================GENERATED ACK  40
+Packet stored in buffer
+Sending ACK to seq 40 with 48 bytes
+waitingFor==
+41
+42
+43
+44
+45
+46
+47
+48
+setACK==
+0
+1
+1
+1
+1
+1
+1
+0
+Packet with sequence number 41 received (last: false )
+===================================GENERATED ACK  41
+Packet stored in buffer
+Sending ACK to seq 41 with 48 bytes
+waitingFor==
+48
+49
+50
+51
+52
+53
+54
+55
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 48 received (last: false )
+===================================GENERATED ACK  48
+Packet stored in buffer
+Sending ACK to seq 48 with 48 bytes
+waitingFor==
+49
+50
+51
+52
+53
+54
+55
+56
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 49 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 48 with 48 bytes
+waitingFor==
+49
+50
+51
+52
+53
+54
+55
+56
+setACK==
+0
+0
+0
+0
+0
+0
+0
+0
+Packet with sequence number 50 received (last: false )
+===================================GENERATED ACK  50
+Packet stored in buffer
+Sending ACK to seq 50 with 48 bytes
+waitingFor==
+49
+50
+51
+52
+53
+54
+55
+56
+setACK==
+0
+1
+0
+0
+0
+0
+0
+0
+Packet with sequence number 51 received (last: false )
+===================================GENERATED ACK  51
+Packet stored in buffer
+Sending ACK to seq 51 with 48 bytes
+waitingFor==
+49
+50
+51
+52
+53
+54
+55
+56
+setACK==
+0
+1
+1
+0
+0
+0
+0
+0
+Packet with sequence number 52 received (last: true )
+Last packet received
+Sending ACK to seq 51 with 48 bytes
+waitingFor==
+49
+50
+51
+52
+53
+54
+55
+56
+setACK==
+0
+1
+1
+52
+0
+0
+0
+0
+Packet with sequence number 49 received (last: false )
+===================================GENERATED ACK  49
+Packet stored in buffer
+Sending ACK to seq 49 with 48 bytes
+waitingFor==
+52
+53
+54
+55
+56
+57
+58
+59
+setACK==
+52
+0
+0
+0
+0
+0
+0
+0

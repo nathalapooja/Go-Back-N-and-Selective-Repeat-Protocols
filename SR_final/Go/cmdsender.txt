@@ -1,0 +1,936 @@
+SR
+4
+8
+1000
+500
+[Ljava.lang.String;@55f96302
+Data size: 500 bytes
+Number of packets to send: 53
+The checksum generated is = 8248
+Sending packet with sequence number 0 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 1 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 2 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 3 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 4 and size 593 bytes
+The checksum generated is = 8248
+[X] Lost packet with sequence number 5
+The checksum generated is = 8248
+Sending packet with sequence number 6 and size 593 bytes
+The checksum generated is = 8248
++++++++++++++++++++CHECKSUM CHANGED++++++++++++++++++++
+Sending packet with sequence number 7 and size 593 bytes
+Received ACK for 0
+LAST SENT = 8
+SEND BASE = 1
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+[X] Lost packet with sequence number 8
+Received ACK for 1
+LAST SENT = 9
+SEND BASE = 2
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 9 and size 593 bytes
+Received ACK for 2
+LAST SENT = 10
+SEND BASE = 3
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 10 and size 593 bytes
+Received ACK for 3
+LAST SENT = 11
+SEND BASE = 4
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 11 and size 593 bytes
+Received ACK for 4
+LAST SENT = 12
+SEND BASE = 5
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+[X] Lost packet with sequence number 12
+Received ACK for 6
+LAST SENT = 13
+SEND BASE = 5
+ACKS = 
+0
+1
+0
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 6
+LAST SENT = 13
+SEND BASE = 5
+ACKS = 
+0
+1
+0
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 9
+LAST SENT = 13
+SEND BASE = 5
+ACKS = 
+0
+1
+0
+0
+1
+0
+0
+0
+======================================================
+Received ACK for 11
+LAST SENT = 13
+SEND BASE = 5
+ACKS = 
+0
+1
+0
+0
+1
+0
+1
+0
+======================================================
+REsending packet with sequence number 5 and size 593 bytes
+REsending packet with sequence number 7 and size 593 bytes
+REsending packet with sequence number 8 and size 593 bytes
+REsending packet with sequence number 10 and size 593 bytes
+REsending packet with sequence number 12 and size 593 bytes
+LAST SENT = 13
+SEND BASE = 5
+ACKS = 
+0
+1
+0
+0
+1
+0
+1
+0
+======================================================
+Received ACK for 5
+LAST SENT = 13
+SEND BASE = 7
+ACKS = 
+0
+0
+1
+0
+1
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 13 and size 593 bytes
+The checksum generated is = 8248
+***************CHECKSUM CHANGED**********************
+Sending packet with sequence number 14 and size 593 bytes
+Received ACK for 7
+LAST SENT = 15
+SEND BASE = 8
+ACKS = 
+0
+1
+0
+1
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 15 and size 593 bytes
+Received ACK for 8
+LAST SENT = 16
+SEND BASE = 10
+ACKS = 
+0
+1
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 16 and size 593 bytes
+The checksum generated is = 8248
+[X] Lost packet with sequence number 17
+Received ACK for 12
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 13
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+0
+0
+0
+0
+======================================================
+Received ACK for 15
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+0
+1
+0
+0
+======================================================
+Received ACK for 16
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+0
+1
+1
+0
+======================================================
+[X] Lost packet with sequence number 10
+REsending packet with sequence number 14 and size 593 bytes
+REsending packet with sequence number 17 and size 593 bytes
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+0
+1
+1
+0
+======================================================
+Received ACK for 14
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+1
+1
+1
+0
+======================================================
+Received ACK for 17
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+1
+1
+1
+1
+======================================================
+REsending packet with sequence number 10 and size 593 bytes
+LAST SENT = 18
+SEND BASE = 10
+ACKS = 
+0
+1
+1
+1
+1
+1
+1
+1
+======================================================
+Received ACK for 10
+LAST SENT = 18
+SEND BASE = 18
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 18 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 19 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 20 and size 593 bytes
+The checksum generated is = 8248
+***************CHECKSUM CHANGED**********************
+Sending packet with sequence number 21 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 22 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 23 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 24 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 25 and size 593 bytes
+Received ACK for 18
+LAST SENT = 26
+SEND BASE = 19
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 26 and size 593 bytes
+Received ACK for 19
+LAST SENT = 27
+SEND BASE = 20
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 27 and size 593 bytes
+Received ACK for 20
+LAST SENT = 28
+SEND BASE = 21
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+***************CHECKSUM CHANGED**********************
+Sending packet with sequence number 28 and size 593 bytes
+Received ACK for 23
+LAST SENT = 29
+SEND BASE = 21
+ACKS = 
+0
+0
+1
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 24
+LAST SENT = 29
+SEND BASE = 21
+ACKS = 
+0
+0
+1
+1
+0
+0
+0
+0
+======================================================
+Received ACK for 25
+LAST SENT = 29
+SEND BASE = 21
+ACKS = 
+0
+0
+1
+1
+1
+0
+0
+0
+======================================================
+Received ACK for 26
+LAST SENT = 29
+SEND BASE = 21
+ACKS = 
+0
+0
+1
+1
+1
+1
+0
+0
+======================================================
+Received ACK for 27
+LAST SENT = 29
+SEND BASE = 21
+ACKS = 
+0
+0
+1
+1
+1
+1
+1
+0
+======================================================
+REsending packet with sequence number 21 and size 593 bytes
+REsending packet with sequence number 22 and size 593 bytes
+REsending packet with sequence number 28 and size 593 bytes
+LAST SENT = 29
+SEND BASE = 21
+ACKS = 
+0
+0
+1
+1
+1
+1
+1
+0
+======================================================
+Received ACK for 21
+LAST SENT = 29
+SEND BASE = 22
+ACKS = 
+0
+1
+1
+1
+1
+1
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 29 and size 593 bytes
+Received ACK for 22
+LAST SENT = 30
+SEND BASE = 28
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 30 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 31 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 32 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 33 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 34 and size 593 bytes
+The checksum generated is = 8248
+***************CHECKSUM CHANGED**********************
+Sending packet with sequence number 35 and size 593 bytes
+Received ACK for 28
+LAST SENT = 36
+SEND BASE = 29
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 36 and size 593 bytes
+Received ACK for 29
+LAST SENT = 37
+SEND BASE = 30
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 37 and size 593 bytes
+Received ACK for 30
+LAST SENT = 38
+SEND BASE = 31
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+[X] Lost packet with sequence number 38
+Received ACK for 31
+LAST SENT = 39
+SEND BASE = 32
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 39 and size 593 bytes
+Received ACK for 32
+LAST SENT = 40
+SEND BASE = 33
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 40 and size 593 bytes
+Received ACK for 33
+LAST SENT = 41
+SEND BASE = 34
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 41 and size 593 bytes
+Received ACK for 34
+LAST SENT = 42
+SEND BASE = 35
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+***************CHECKSUM CHANGED**********************
+Sending packet with sequence number 42 and size 593 bytes
+Received ACK for 34
+LAST SENT = 43
+SEND BASE = 35
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 36
+LAST SENT = 43
+SEND BASE = 35
+ACKS = 
+0
+1
+0
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 37
+LAST SENT = 43
+SEND BASE = 35
+ACKS = 
+0
+1
+1
+0
+0
+0
+0
+0
+======================================================
+REsending packet with sequence number 35 and size 593 bytes
+REsending packet with sequence number 38 and size 593 bytes
+REsending packet with sequence number 39 and size 593 bytes
+[X] Lost packet with sequence number 40
+[X] Lost packet with sequence number 41
+REsending packet with sequence number 42 and size 593 bytes
+LAST SENT = 43
+SEND BASE = 35
+ACKS = 
+0
+1
+1
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 35
+LAST SENT = 43
+SEND BASE = 38
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 43 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 44 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 45 and size 593 bytes
+Received ACK for 38
+LAST SENT = 46
+SEND BASE = 39
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 46 and size 593 bytes
+Received ACK for 39
+LAST SENT = 47
+SEND BASE = 40
+ACKS = 
+0
+0
+0
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 47 and size 593 bytes
+Received ACK for 42
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+0
+0
+0
+0
+0
+======================================================
+Received ACK for 43
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+0
+0
+0
+0
+======================================================
+Received ACK for 44
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+1
+0
+0
+0
+======================================================
+Received ACK for 45
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+1
+1
+0
+0
+======================================================
+Received ACK for 46
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+1
+1
+1
+0
+======================================================
+Received ACK for 47
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+1
+1
+1
+1
+======================================================
+[X] Lost packet with sequence number 40
+REsending packet with sequence number 41 and size 593 bytes
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+1
+1
+1
+1
+======================================================
+REsending packet with sequence number 40 and size 593 bytes
+REsending packet with sequence number 41 and size 593 bytes
+LAST SENT = 48
+SEND BASE = 40
+ACKS = 
+0
+0
+1
+1
+1
+1
+1
+1
+======================================================
+Received ACK for 40
+LAST SENT = 48
+SEND BASE = 41
+ACKS = 
+0
+1
+1
+1
+1
+1
+1
+0
+======================================================
+The checksum generated is = 8248
+Sending packet with sequence number 48 and size 593 bytes
+Received ACK for 41
+LAST SENT = 49
+SEND BASE = 48
+ACKS = 
+0
+0
+0
+0
+0
+======================================================
+The checksum generated is = 8248
+***************CHECKSUM CHANGED**********************
+Sending packet with sequence number 49 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 50 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 51 and size 593 bytes
+The checksum generated is = 8248
+Sending packet with sequence number 52 and size 593 bytes
+Received ACK for 48
+LAST SENT = 53
+SEND BASE = 49
+ACKS = 
+0
+0
+0
+0
+======================================================
+Received ACK for 48
+LAST SENT = 53
+SEND BASE = 49
+ACKS = 
+0
+0
+0
+0
+======================================================
+Received ACK for 50
+LAST SENT = 53
+SEND BASE = 49
+ACKS = 
+0
+1
+0
+0
+======================================================
+Received ACK for 51
+LAST SENT = 53
+SEND BASE = 49
+ACKS = 
+0
+1
+1
+0
+======================================================
+Received ACK for 51
+LAST SENT = 53
+SEND BASE = 49
+ACKS = 
+0
+1
+1
+0
+======================================================
+REsending packet with sequence number 49 and size 593 bytes
+REsending packet with sequence number 52 and size 593 bytes
+LAST SENT = 53
+SEND BASE = 49
+ACKS = 
+0
+1
+1
+0
+======================================================
+Received ACK for 49
+LAST SENT = 53
+SEND BASE = 52
+ACKS = 
+0
+======================================================
+Finished transmission

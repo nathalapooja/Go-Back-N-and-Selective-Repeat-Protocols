@@ -1,0 +1,230 @@
+GBN
+4
+4
+1000
+500
+[Ljava.lang.String;@55f96302
+Data size: 500 bytes
+Number of packets to send: 50
+The checksum generated is = 7077
+Sending packet with sequence number 0 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 1 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 2 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 3 and size 593 bytes
+Received ACK for 1
+The checksum generated is = 7077
+Sending packet with sequence number 4 and size 593 bytes
+Received ACK for 2
+The checksum generated is = 7077
+Sending packet with sequence number 5 and size 593 bytes
+Received ACK for 3
+The checksum generated is = 7077
+Sending packet with sequence number 6 and size 593 bytes
+Received ACK for 5
+The checksum generated is = 7077
+Sending packet with sequence number 7 and size 593 bytes
+[X] Lost packet with sequence number 7
+The checksum generated is = 7077
+Sending packet with sequence number 8 and size 593 bytes
+Received ACK for 6
+The checksum generated is = 7077
+Sending packet with sequence number 9 and size 593 bytes
+[X] Lost packet with sequence number 9
+Received ACK for 7
+The checksum generated is = 7077
+[X] Checksum changed for packet with sequence number 10
+Sending packet with sequence number 10 and size 593 bytes
+Received ACK for 7
+Received ACK for 7
+REsending packet with sequence number 7 and size 593 bytes
+REsending packet with sequence number 8 and size 593 bytes
+REsending packet with sequence number 9 and size 593 bytes
+[X] Lost packet with sequence number 10
+REsending packet with sequence number 10 and size 593 bytes
+Received ACK for 8
+The checksum generated is = 7077
+Sending packet with sequence number 11 and size 593 bytes
+Received ACK for 9
+The checksum generated is = 7077
+Sending packet with sequence number 12 and size 593 bytes
+Received ACK for 10
+The checksum generated is = 7077
+Sending packet with sequence number 13 and size 593 bytes
+Received ACK for 10
+Received ACK for 10
+[X] Lost packet with sequence number 10
+REsending packet with sequence number 10 and size 593 bytes
+REsending packet with sequence number 11 and size 593 bytes
+REsending packet with sequence number 12 and size 593 bytes
+[X] Lost packet with sequence number 13
+REsending packet with sequence number 13 and size 593 bytes
+Received ACK for 10
+Received ACK for 10
+REsending packet with sequence number 10 and size 593 bytes
+REsending packet with sequence number 11 and size 593 bytes
+REsending packet with sequence number 12 and size 593 bytes
+REsending packet with sequence number 13 and size 593 bytes
+Received ACK for 11
+The checksum generated is = 7077
+[X] Checksum changed for packet with sequence number 14
+Sending packet with sequence number 14 and size 593 bytes
+Received ACK for 12
+The checksum generated is = 7077
+Sending packet with sequence number 15 and size 593 bytes
+Received ACK for 14
+The checksum generated is = 7077
+Sending packet with sequence number 16 and size 593 bytes
+[X] Lost packet with sequence number 16
+The checksum generated is = 7077
+[X] Checksum changed for packet with sequence number 17
+Sending packet with sequence number 17 and size 593 bytes
+Received ACK for 14
+Received ACK for 14
+Received ACK for 14
+REsending packet with sequence number 14 and size 593 bytes
+REsending packet with sequence number 15 and size 593 bytes
+[X] Lost packet with sequence number 16
+REsending packet with sequence number 16 and size 593 bytes
+REsending packet with sequence number 17 and size 593 bytes
+Received ACK for 15
+The checksum generated is = 7077
+Sending packet with sequence number 18 and size 593 bytes
+Received ACK for 16
+The checksum generated is = 7077
+Sending packet with sequence number 19 and size 593 bytes
+Received ACK for 16
+Received ACK for 16
+Received ACK for 16
+REsending packet with sequence number 16 and size 593 bytes
+REsending packet with sequence number 17 and size 593 bytes
+REsending packet with sequence number 18 and size 593 bytes
+[X] Lost packet with sequence number 19
+REsending packet with sequence number 19 and size 593 bytes
+Received ACK for 17
+The checksum generated is = 7077
+Sending packet with sequence number 20 and size 593 bytes
+[X] Lost packet with sequence number 20
+Received ACK for 18
+The checksum generated is = 7077
+Sending packet with sequence number 21 and size 593 bytes
+[X] Lost packet with sequence number 21
+Received ACK for 19
+The checksum generated is = 7077
+[X] Checksum changed for packet with sequence number 22
+Sending packet with sequence number 22 and size 593 bytes
+Received ACK for 19
+REsending packet with sequence number 19 and size 593 bytes
+REsending packet with sequence number 20 and size 593 bytes
+REsending packet with sequence number 21 and size 593 bytes
+REsending packet with sequence number 22 and size 593 bytes
+Received ACK for 20
+The checksum generated is = 7077
+Sending packet with sequence number 23 and size 593 bytes
+Received ACK for 21
+The checksum generated is = 7077
+Sending packet with sequence number 24 and size 593 bytes
+Received ACK for 22
+The checksum generated is = 7077
+[X] Checksum changed for packet with sequence number 25
+Sending packet with sequence number 25 and size 593 bytes
+Received ACK for 23
+The checksum generated is = 7077
+Sending packet with sequence number 26 and size 593 bytes
+Received ACK for 24
+The checksum generated is = 7077
+Sending packet with sequence number 27 and size 593 bytes
+Received ACK for 25
+The checksum generated is = 7077
+Sending packet with sequence number 28 and size 593 bytes
+Received ACK for 25
+Received ACK for 25
+Received ACK for 25
+Received ACK for 25
+[X] Lost packet with sequence number 25
+REsending packet with sequence number 25 and size 593 bytes
+REsending packet with sequence number 26 and size 593 bytes
+REsending packet with sequence number 27 and size 593 bytes
+REsending packet with sequence number 28 and size 593 bytes
+Received ACK for 25
+Received ACK for 25
+Received ACK for 25
+REsending packet with sequence number 25 and size 593 bytes
+REsending packet with sequence number 26 and size 593 bytes
+REsending packet with sequence number 27 and size 593 bytes
+REsending packet with sequence number 28 and size 593 bytes
+Received ACK for 26
+The checksum generated is = 7077
+Sending packet with sequence number 29 and size 593 bytes
+Received ACK for 27
+The checksum generated is = 7077
+Sending packet with sequence number 30 and size 593 bytes
+Received ACK for 28
+The checksum generated is = 7077
+Sending packet with sequence number 31 and size 593 bytes
+Received ACK for 29
+The checksum generated is = 7077
+Sending packet with sequence number 32 and size 593 bytes
+Received ACK for 30
+The checksum generated is = 7077
+Sending packet with sequence number 33 and size 593 bytes
+Received ACK for 31
+The checksum generated is = 7077
+Sending packet with sequence number 34 and size 593 bytes
+Received ACK for 33
+The checksum generated is = 7077
+Sending packet with sequence number 35 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 36 and size 593 bytes
+Received ACK for 34
+The checksum generated is = 7077
+Sending packet with sequence number 37 and size 593 bytes
+Received ACK for 37
+The checksum generated is = 7077
+Sending packet with sequence number 38 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 39 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 40 and size 593 bytes
+Received ACK for 38
+The checksum generated is = 7077
+Sending packet with sequence number 41 and size 593 bytes
+Received ACK for 39
+The checksum generated is = 7077
+Sending packet with sequence number 42 and size 593 bytes
+Received ACK for 40
+The checksum generated is = 7077
+[X] Checksum changed for packet with sequence number 43
+Sending packet with sequence number 43 and size 593 bytes
+Received ACK for 41
+The checksum generated is = 7077
+Sending packet with sequence number 44 and size 593 bytes
+Received ACK for 42
+The checksum generated is = 7077
+Sending packet with sequence number 45 and size 593 bytes
+[X] Lost packet with sequence number 45
+Received ACK for 43
+The checksum generated is = 7077
+Sending packet with sequence number 46 and size 593 bytes
+Received ACK for 43
+Received ACK for 43
+Received ACK for 43
+REsending packet with sequence number 43 and size 593 bytes
+REsending packet with sequence number 44 and size 593 bytes
+REsending packet with sequence number 45 and size 593 bytes
+REsending packet with sequence number 46 and size 593 bytes
+Received ACK for 44
+The checksum generated is = 7077
+Sending packet with sequence number 47 and size 593 bytes
+Received ACK for 46
+The checksum generated is = 7077
+Sending packet with sequence number 48 and size 593 bytes
+The checksum generated is = 7077
+Sending packet with sequence number 49 and size 593 bytes
+Received ACK for 47
+Received ACK for 48
+Received ACK for 49
+Received ACK for 50
+Finished transmission

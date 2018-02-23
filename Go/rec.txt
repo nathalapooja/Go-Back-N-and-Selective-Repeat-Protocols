@@ -1,0 +1,309 @@
+GBN
+4
+4
+1000
+500
+[Ljava.lang.String;@6bc7c054
+Waiting for packet0
+Packet with sequence number 0 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 1 with 48 bytes
+Waiting for packet1
+Packet with sequence number 1 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 2 with 48 bytes
+Waiting for packet2
+Packet with sequence number 2 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 3 with 48 bytes
+Waiting for packet3
+Packet with sequence number 3 received (last: false )
+Packed stored in buffer
+[X] Lost ack with sequence number 4
+Sending ACK to seq 4 with 48 bytes
+Waiting for packet4
+Packet with sequence number 4 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 5 with 48 bytes
+Waiting for packet5
+Packet with sequence number 5 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 6 with 48 bytes
+Waiting for packet6
+Packet with sequence number 6 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 7 with 48 bytes
+Waiting for packet7
+Packet with sequence number 8 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 7 with 48 bytes
+Waiting for packet7
+Packet with sequence number 10 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 7 with 48 bytes
+Waiting for packet7
+Packet with sequence number 7 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 8 with 48 bytes
+Waiting for packet8
+Packet with sequence number 8 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 9 with 48 bytes
+Waiting for packet9
+Packet with sequence number 9 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 10 with 48 bytes
+Waiting for packet10
+Packet with sequence number 11 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 10 with 48 bytes
+Waiting for packet10
+Packet with sequence number 12 received (last: false )
+Packet discarded (not in order)
+[X] Lost ack with sequence number 10
+Sending ACK to seq 10 with 48 bytes
+Waiting for packet10
+Packet with sequence number 13 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 10 with 48 bytes
+Waiting for packet10
+Packet with sequence number 11 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 10 with 48 bytes
+Waiting for packet10
+Packet with sequence number 12 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 10 with 48 bytes
+Waiting for packet10
+Packet with sequence number 10 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 11 with 48 bytes
+Waiting for packet11
+Packet with sequence number 11 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 12 with 48 bytes
+Waiting for packet12
+Packet with sequence number 12 received (last: false )
+Packed stored in buffer
+[X] Lost ack with sequence number 13
+Sending ACK to seq 13 with 48 bytes
+Waiting for packet13
+Packet with sequence number 13 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 14 with 48 bytes
+Waiting for packet14
+Packet with sequence number 14 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 14 with 48 bytes
+Waiting for packet14
+Packet with sequence number 15 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 14 with 48 bytes
+Waiting for packet14
+Packet with sequence number 17 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 14 with 48 bytes
+Waiting for packet14
+Packet with sequence number 14 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 15 with 48 bytes
+Waiting for packet15
+Packet with sequence number 15 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 16 with 48 bytes
+Waiting for packet16
+Packet with sequence number 17 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 16 with 48 bytes
+Waiting for packet16
+Packet with sequence number 18 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 16 with 48 bytes
+Waiting for packet16
+Packet with sequence number 19 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 16 with 48 bytes
+Waiting for packet16
+Packet with sequence number 16 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 17 with 48 bytes
+Waiting for packet17
+Packet with sequence number 17 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 18 with 48 bytes
+Waiting for packet18
+Packet with sequence number 18 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 19 with 48 bytes
+Waiting for packet19
+Packet with sequence number 22 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 19 with 48 bytes
+Waiting for packet19
+Packet with sequence number 19 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 20 with 48 bytes
+Waiting for packet20
+Packet with sequence number 20 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 21 with 48 bytes
+Waiting for packet21
+Packet with sequence number 21 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 22 with 48 bytes
+Waiting for packet22
+Packet with sequence number 22 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 23 with 48 bytes
+Waiting for packet23
+Packet with sequence number 23 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 24 with 48 bytes
+Waiting for packet24
+Packet with sequence number 24 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 25 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 26 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 27 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 28 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 26 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 27 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 28 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 25 with 48 bytes
+Waiting for packet25
+Packet with sequence number 25 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 26 with 48 bytes
+Waiting for packet26
+Packet with sequence number 26 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 27 with 48 bytes
+Waiting for packet27
+Packet with sequence number 27 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 28 with 48 bytes
+Waiting for packet28
+Packet with sequence number 28 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 29 with 48 bytes
+Waiting for packet29
+Packet with sequence number 29 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 30 with 48 bytes
+Waiting for packet30
+Packet with sequence number 30 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 31 with 48 bytes
+Waiting for packet31
+Packet with sequence number 31 received (last: false )
+Packed stored in buffer
+[X] Lost ack with sequence number 32
+Sending ACK to seq 32 with 48 bytes
+Waiting for packet32
+Packet with sequence number 32 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 33 with 48 bytes
+Waiting for packet33
+Packet with sequence number 33 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 34 with 48 bytes
+Waiting for packet34
+Packet with sequence number 34 received (last: false )
+Packed stored in buffer
+[X] Lost ack with sequence number 35
+Sending ACK to seq 35 with 48 bytes
+Waiting for packet35
+Packet with sequence number 35 received (last: false )
+Packed stored in buffer
+[X] Lost ack with sequence number 36
+Sending ACK to seq 36 with 48 bytes
+Waiting for packet36
+Packet with sequence number 36 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 37 with 48 bytes
+Waiting for packet37
+Packet with sequence number 37 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 38 with 48 bytes
+Waiting for packet38
+Packet with sequence number 38 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 39 with 48 bytes
+Waiting for packet39
+Packet with sequence number 39 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 40 with 48 bytes
+Waiting for packet40
+Packet with sequence number 40 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 41 with 48 bytes
+Waiting for packet41
+Packet with sequence number 41 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 42 with 48 bytes
+Waiting for packet42
+Packet with sequence number 42 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 43 with 48 bytes
+Waiting for packet43
+Packet with sequence number 43 received (last: false )
+Packet discarded (Checksum error)
+Sending ACK to seq 43 with 48 bytes
+Waiting for packet43
+Packet with sequence number 44 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 43 with 48 bytes
+Waiting for packet43
+Packet with sequence number 46 received (last: false )
+Packet discarded (not in order)
+Sending ACK to seq 43 with 48 bytes
+Waiting for packet43
+Packet with sequence number 43 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 44 with 48 bytes
+Waiting for packet44
+Packet with sequence number 44 received (last: false )
+Packed stored in buffer
+[X] Lost ack with sequence number 45
+Sending ACK to seq 45 with 48 bytes
+Waiting for packet45
+Packet with sequence number 45 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 46 with 48 bytes
+Waiting for packet46
+Packet with sequence number 46 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 47 with 48 bytes
+Waiting for packet47
+Packet with sequence number 47 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 48 with 48 bytes
+Waiting for packet48
+Packet with sequence number 48 received (last: false )
+Packed stored in buffer
+Sending ACK to seq 49 with 48 bytes
+Waiting for packet49
+Packet with sequence number 49 received (last: true )
+Last packet received
+Sending ACK to seq 50 with 48 bytes
